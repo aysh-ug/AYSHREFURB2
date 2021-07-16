@@ -1,0 +1,58 @@
+body{
+    font-family: "century gothic", 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.section {
+    background: url('../images/ayshfb.jpg') !important;
+}
+
+.training {
+    background: url('../images/bg/checkered-pattern.png') !important;
+}
+
+.training {
+      background-color: rgba(167, 22, 22, 0.5);
+    margin: 0px 20px;
+}
+
+.course{
+    font-family: "century gothic";
+}
+.section {
+    background-color: rgba(167, 22, 22, 0.5);
+    margin: 20px;
+}
+
+.svgpic {
+    width: 80px;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.bg-blue {
+    background-color: aliceblue;
+}
+
+.bg-grey {
+    background-color: rgb(231, 231, 231);
+}
+
+.badge {
+    font-style: normal;
+    font-size: x-large;
+}
+
+.list-group-item2 {
+    position: relative;
+    width: 100%;
+    display: block;
+    padding: .5rem 1rem;
+    color: #1a1a1a;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(248, 225, 91, 0.5)
+}
+
+.nostyle {
+    text-decoration: none;
+    font-style: normal;
+}
